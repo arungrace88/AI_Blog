@@ -7,5 +7,6 @@ The articles covered so far in the blog:
 - [Confusion Matrix - Is it really confusing?](https://mlskills.blogspot.com/2020/09/confusion-matrix-is-it-really-confusing.html)
 - [Classification Metrics - Part 1 of 2](https://mlskills.blogspot.com/2020/09/classification-metrics-overview.html)
 - [Classification Metrics - Part 2 of 2](https://mlskills.blogspot.com/2020/10/classification-metrics-part-2-of-2.html)
+- [NLP Metric: BLEU (BiLingual Evaluation Understudy) Score](https://mlskills.blogspot.com/2020/12/nlp-metric-bleu-bilingual-evaluation.html)
 
 Stay tuned.! I will be posting the article on a regular basis. If you have got any feedback, please do let me know.
